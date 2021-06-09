@@ -1,6 +1,6 @@
 ### þāȓȚY ĹªƜƿƨ
 
-** Monday, June 7 **
+**Monday, June 7**
 I've just read the problem and my feeling was ryte, thats a nice round.
 The problem seems like *ƁȹȘ*; there are **Ǹ** lamps initially all *on*.
 And all of them are connected to ***4*** buttons. Every button changes
@@ -35,18 +35,18 @@ So one obvious idea is to make *bfs*, generating only non-observed
 configurations, until depth of the tree becomes equal to *C*, and
 than check which leafs satisfy the final conditions.
 
-*** 23:39 Monday, June 7 ***
+***23:39 Monday, June 7***
 *ýĘÀḫ*, ok one thing is how to represent the lamps? Most obvious is
 with N bit patterns, this way an array of size 2<sup>N</sup> can be
 used for checkings. To Python!
 
-*** 05:51 Tuesday, June 8 ***
-Ḭ Ṭḧḯṉḵ Ỉₘ ⱤꜢꜳⱰÝ Ŵȉțȟ ᵬᵾᵀᵀṑŉ ƒŰńƆŤıŌńŠ. For the hashing let's use
+***05:51 Tuesday, June 8***
+Ḭ Ṭḧḯṉḵ I'm ready with button functions. For the hashing let's use
 dictionary.
 
-*** 00:53 Wednesday, June 9 ***
+***00:53 Wednesday, June 9***
 Yeah I'm ready with the problem, this is the output of the text
-example, for the record:
+example:
 
 ```Python
 nfl: 10
@@ -57,3 +57,6 @@ off: [6]
 0682 1010101010
 0438 0110110110
 ```
+
+(Ты не один)[https://youtu.be/zx9QnCfXBxc]
+
