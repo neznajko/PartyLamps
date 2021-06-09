@@ -58,5 +58,5 @@ off: [6]
 0438 0110110110
 ```
 
-(Ты не один)[https://youtu.be/zx9QnCfXBxc]
+[Ты не один](https://youtu.be/zx9QnCfXBxc)
 
